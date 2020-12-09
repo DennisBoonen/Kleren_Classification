@@ -1,0 +1,5 @@
+0, trui
+1, t-shirt
+2, jogginbroek
+3, jeans
+4, jas
