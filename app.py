@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-from clf import predict
 from cls_test import predict
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
